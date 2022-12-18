@@ -1,0 +1,30 @@
+[
+  {
+    "brand": "Toyota",
+    "model": "Hilux",
+    "hp": "204",
+    "price": "4500",
+    "unique_id": "1273587a-f3ff-437b-99da-965dab329e9d"
+  },
+  {
+    "brand": "Mercedes",
+    "model": "Glc",
+    "hp": "220",
+    "price": "10000",
+    "unique_id": "f4e024eb-1d74-4f8c-a348-b3134202c8fc"
+  },
+  {
+    "brand": "Ford",
+    "model": "Kuga",
+    "hp": "180",
+    "price": "7999",
+    "unique_id": "70b981bc-06da-4285-a710-82580154cc51"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Corvette",
+    "hp": "200",
+    "price": "9400",
+    "unique_id": "46aa1870-9bbc-491d-a337-bae566d2e6e7"
+  }
+]

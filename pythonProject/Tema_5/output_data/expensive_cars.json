@@ -1,0 +1,37 @@
+[
+  {
+    "brand": "BMW",
+    "model": "X3",
+    "hp": "70",
+    "price": "9000",
+    "unique_id": "83a044fd-8caf-46ee-8f5f-be229abac50c"
+  },
+  {
+    "brand": "Mercedes",
+    "model": "Glc",
+    "hp": "220",
+    "price": "10000",
+    "unique_id": "f4e024eb-1d74-4f8c-a348-b3134202c8fc"
+  },
+  {
+    "brand": "Ford",
+    "model": "Kuga",
+    "hp": "180",
+    "price": "7999",
+    "unique_id": "70b981bc-06da-4285-a710-82580154cc51"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Corvette",
+    "hp": "200",
+    "price": "9400",
+    "unique_id": "46aa1870-9bbc-491d-a337-bae566d2e6e7"
+  },
+  {
+    "brand": "BMW",
+    "model": "3 Series",
+    "hp": " 150",
+    "price": "12000",
+    "unique_id": "2cfc95c8-7160-4745-ba5b-20156fc9900c"
+  }
+]

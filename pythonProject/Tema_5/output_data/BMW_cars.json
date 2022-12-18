@@ -1,0 +1,16 @@
+[
+  {
+    "brand": "BMW",
+    "model": "X3",
+    "hp": "70",
+    "price": "9000",
+    "unique_id": "83a044fd-8caf-46ee-8f5f-be229abac50c"
+  },
+  {
+    "brand": "BMW",
+    "model": "3 Series",
+    "hp": " 150",
+    "price": "12000",
+    "unique_id": "2cfc95c8-7160-4745-ba5b-20156fc9900c"
+  }
+]

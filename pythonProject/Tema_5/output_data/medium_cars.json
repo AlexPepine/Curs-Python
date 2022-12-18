@@ -1,0 +1,16 @@
+[
+  {
+    "brand": "Toyota",
+    "model": "Hilux",
+    "hp": "204",
+    "price": "4500",
+    "unique_id": "1273587a-f3ff-437b-99da-965dab329e9d"
+  },
+  {
+    "brand": "Renault",
+    "model": "Megan",
+    "hp": "70",
+    "price": "1100",
+    "unique_id": "da0dcb82-bdac-4212-99c5-cbf8863da2a8"
+  }
+]
